@@ -24,6 +24,9 @@ CMakeLists.txt.user
 #### VS Code ####
 .vscode/
 ## end VS Code ##
+#### Visual Studio ####
+.vs/
+## end Visual Studio ##
 ## Docs ##
 #### Doxygen ####
 docs/html/
@@ -33,3 +36,5 @@ docs/html/
 *.qph
 *.ts
 *.qm
+CMakePresets.json
+CMakeUserPresets.json
